@@ -1,0 +1,5 @@
+Check palindrome or not ?
+Using for loop
+
+console.log(isPalindrome(121));
+console.log(isPalindrome(-121));
