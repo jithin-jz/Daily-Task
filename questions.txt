@@ -1,4 +1,4 @@
-Check palindrome or not ?
+1.Check palindrome or not ?
 Using for loop
 
 console.log(isPalindrome(121));
