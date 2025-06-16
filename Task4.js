@@ -15,5 +15,5 @@ const Products = [
 let sortProduct =  Products.sort((a,b)=>a.price-b.price)
 console.log(sortProduct)
 
-let sum = sortProduct.reduce((a, b) => a + b.price, 0);
+let sum = sortProduct.reduce((a,b) => a+b.price,0);
 console.log(sum);
